@@ -17,11 +17,9 @@ h4{
 
 h1{
     margin-top: 30px;
-    text-align: center;
 }
 h2{
-    margin-bottom: 20px;
-    margin-left: 70px;
+    color: brown;
 }
 
 
@@ -29,7 +27,6 @@ h2{
 .carousel {
     width: 500px;
     height: 300px;
-    margin: 0 auto;
 }
 img{
     object-fit: cover;
